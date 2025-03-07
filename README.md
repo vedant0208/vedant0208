@@ -64,8 +64,15 @@
 ## 📬 Let's Connect!
 <p align="left">
 <a href="https://linkedin.com/in/vedantmishraji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vedantmishraji" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vedant0208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vedant0208" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/mailtoveen7s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mailtoveen7s" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/vedanttt" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" height="30" width="40">
+</a>
+<a href="mailtovedanttt@gmail.com" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" height="30" width="40">
+</a>
+
+
+
 </p>
 
 ---
