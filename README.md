@@ -1,30 +1,77 @@
 <h1 align="center">Hi 👋, I'm Vedant Mishra</h1>
-<h3 align="center">A web developer from India</h3>
+<h3 align="center">Data Analyst | Aspiring Data Scientist | SQL & Python Enthusiast</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<p align="center">
+  <img align="center" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+</p>
 
+## 🚀 About Me
+🔍 Passionate about **data-driven insights** that power smarter decisions.  
+📊 Skilled in **Data Analytics, Machine Learning, SQL, Python, Power BI, and Tableau**.  
+🎯 **Competitive SQL Programmer** & **5-star coder on HackerRank**.  
+📚 Constantly upskilling with certifications in **Data Analytics & Machine Learning**.  
+💡 Love solving complex problems and visualizing data to tell compelling stories.  
 
-- [NAARI - A Women empowerment website](https://vedant0208.github.io/NAARI/)
+---
 
-- 🌱 I’m currently learning **React and Backend Development**
+## 💼 Professional Experience
+### **Data Analytics Intern | Good Host Spaces** *(Aug 2024 - Nov 2024)*
+- 📊 **Analyzed & optimized** operational processes to improve efficiency.
+- 📌 Delivered **customer satisfaction insights** using SQL & Power BI.
+- ⚡ **Automated routine tasks**, enhancing productivity & decision-making.
 
-- 👨‍💻 Portfolio Website [https://vedant0208.github.io/PortfolioWebsite/](https://vedant0208.github.io/PortfolioWebsite/)
+### **Data Science Intern | Future Intern** *(Jul 2024 - Aug 2024)*
+- 🔍 **Performed Data Cleaning & Exploratory Data Analysis (EDA)** on large datasets.
+- 🤖 Built **Machine Learning models** for fraud detection & predictive analytics.
+- 🛠 Hands-on experience with **Python, NumPy, Pandas, and scikit-learn**.
 
-- 💬 Ask me about **Frontend development , Web Dev , DSA**
+---
 
-- 📫 How to reach me **mailtovedanttt@gmail.com**
+## 🏆 Projects
+🚀 **Fraud Detection using Machine Learning** *(Kaggle Dataset)*
+- Built a **classification model** to detect fraudulent transactions.
+- Used **EDA, feature engineering & hyperparameter tuning**.
 
-<h3 align="left">Connect with me:</h3>
+📧 **Email Spam Classifier using NLP**
+- Implemented **TF-IDF & Naïve Bayes algorithm** to filter spam emails.
+- Achieved **90%+ accuracy** in spam detection.
+
+📈 **Customer Retention Analysis using Power BI**
+- Designed **interactive dashboards** to track customer behavior.
+- Provided insights to **reduce churn rate & increase customer engagement**.
+
+🏋🏻‍♀️ **Fitness Tracker**
+
+- Developed a data-driven fitness tracking system to monitor health metrics.
+- Utilized Python, SQL, and Power BI to analyze and visualize fitness trends.
+- Provided insights on workout efficiency and progress tracking.
+
+---
+
+## 🛠 Tech Stack
+### **Languages & Databases**
+- **SQL, Python, MySQL**
+- **Pandas, NumPy, scikit-learn**
+
+### **Visualization & BI Tools**
+- **Power BI, Tableau, Matplotlib, Seaborn**
+
+### **Other Skills**
+- Data Cleaning, ETL, Predictive Analytics, Data Storytelling
+
+---
+
+## 📬 Let's Connect!
 <p align="left">
 <a href="https://linkedin.com/in/vedantmishraji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vedantmishraji" height="30" width="40" /></a>
-<a href="https://instagram.com/vedant.mishraji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vedant.mishraji" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vedant0208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vedant0208" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/mailtoveen7s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mailtoveen7s" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
+## 📊 GitHub Stats
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedant0208&show_icons=true&locale=en&layout=compact" alt="vedant0208" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedant0208&" alt="vedant0208" /></p>
+
